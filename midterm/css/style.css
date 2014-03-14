@@ -1,0 +1,21 @@
+h1 {
+	text-align:center;
+	font-size:45px;
+}
+h1,h2{
+	color:#EE5A3F;
+}
+
+img {
+	margin:30px;
+}
+body{
+	font-family:helvetica, ariel;
+}
+.big-box {
+	background-color:#8FDAD6;
+	width:100%;
+	font-size:40px;
+	color:#31757D;
+	text-align:center;	
+}
